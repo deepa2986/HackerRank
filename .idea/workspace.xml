@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f649e9fa-3923-4705-8696-da41a2253532" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaesarCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaesarCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DiagonalDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiagonalDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZigZagSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZigZagSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/Loop1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/Loop1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/LoopII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/LoopII.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,79 +45,49 @@
       <recent name="C:\Users\Deepa G K\Programs\HackerRank\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IntToString">
-    <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.DataTypes" />
+  <component name="RunManager" selected="Application.PlusMinus">
+    <configuration name="CountSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountSort" />
       <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EndOfFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.EndOfFile" />
+    <configuration name="GridArrangeOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GridArrangeOrder" />
       <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.IntToString" />
+    <configuration name="JesseAndCookies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JesseAndCookies" />
       <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.LoopII" />
+    <configuration name="PlusMinus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PlusMinus" />
       <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticInitializerBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.StaticInitializerBlock" />
+    <configuration name="ZigZagSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZigZagSequence" />
       <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IntToString" />
-        <item itemvalue="Application.StaticInitializerBlock" />
-        <item itemvalue="Application.EndOfFile" />
-        <item itemvalue="Application.DataTypes" />
-        <item itemvalue="Application.LoopII" />
+        <item itemvalue="Application.PlusMinus" />
+        <item itemvalue="Application.JesseAndCookies" />
+        <item itemvalue="Application.GridArrangeOrder" />
+        <item itemvalue="Application.CountSort" />
+        <item itemvalue="Application.ZigZagSequence" />
       </list>
     </recent_temporary>
   </component>

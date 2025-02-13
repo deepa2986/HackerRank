@@ -8,26 +8,7 @@ public class CaesarCipher {
         System.out.println(s1);
     }
 
-//    public static String caesarCipher(String s,int k){
-//        k = k % 26;
-//        String reversed1 = reverse(0, s.length() - k - 1 , s);
-//        String reversed2  = reverse(reversed1.length()-k,reversed1.length() - 1,reversed1);
-//       String reversed3 = reverse(0,reversed2.length() - 1,reversed2);
-//        return reversed3;
-//
-//    }
-//
-//    public static String reverse(int start, int end,String s){
-//        char[] charArray = s.toCharArray();
-//        while(start < end){
-//            char temp = charArray[start];
-//            charArray[start] = charArray[end];
-//            charArray[end] = temp;
-//            start++;
-//            end--;
-//        }
-//        return new String(charArray);
-//    }
+
 
 //    public static String caesarCipher(String s,int k){
 //

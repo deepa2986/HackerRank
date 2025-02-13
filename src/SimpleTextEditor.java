@@ -42,7 +42,6 @@ public class SimpleTextEditor {
 
 class EditorOperations{
     int type;
-
     Object operation;
     public EditorOperations(int type, Object op){
         this.type = type;

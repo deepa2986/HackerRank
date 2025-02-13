@@ -10,28 +10,9 @@ public class DiagonalDifference {
         list.add(Arrays.asList(4,5,6));
         list.add(Arrays.asList(9,8,9));
         System.out.println(list);
-        int sum = 0;
-
         int i = diagonalDifference(list);
         System.out.println(i);
-//       for (List<Integer> list1 :list){
-//            sum  = sum + list1.stream().reduce(Integer::sum).get();
-//       }
-//        System.out.println(sum);
-
-      //
-
-//
-
     }
-
-//    public static int diagonalDifference(List<List<Integer>> arr) {
-//        // Write your code here
-//
-//
-//
-//    }
-
     public static int diagonalDifference(List<List<Integer>> arr) {
         int n = arr.size();
         int primaryDiagonalSum = 0;

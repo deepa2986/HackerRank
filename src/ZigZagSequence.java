@@ -9,7 +9,6 @@ public class ZigZagSequence {
 
     }
 
-
     public static void findZigZagSequence(int [] a, int n){
         Arrays.sort(a);
         int mid = n/2;
